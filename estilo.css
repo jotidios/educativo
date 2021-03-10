@@ -1,0 +1,67 @@
+body {
+	color: #003300;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+	font-weight: 500;
+	background: #FFF8EC;
+	}
+
+H1	{
+	font-size: 2em;
+	font-weight: 700;
+	color: #690;
+	text-align: center;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	}	
+	
+H2	{	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 1.75em;
+	font-weight: 700;
+	}
+	
+H3	{	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:	1.58em;
+	font-weight: 500;
+	}
+TABLE {
+	background-color: #FFEFD5;
+}
+TH {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.9em;
+	color: White;
+	font-weight: 500;
+	font: bold;
+	background: #804D19;
+	}
+TD {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.9em;
+	font-weight: 500;
+	color: Navy;
+	}
+.f {
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.f {
+	color: #000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.f {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #930;
+	text-align: center;
+}
+#apDiv1 .f {
+	text-align: justify;
+}
+#apDiv1 .f {
+	text-align: center;
+}
+#apDiv1 .f {
+	font-family: "Comic Sans MS", cursive;
+}
